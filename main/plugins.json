@@ -23,6 +23,12 @@
       "name": "RSpamd Integration",
       "description": "RSpamd management",
       "category": "mail-security"
+    },
+    {
+      "package": "mrsleeps/vexim-web-plugin-mtasts",
+      "name": "MTASTS Integration",
+      "description": "MTASTS management",
+      "category": "mail-security"
     }
   ]
 }
