@@ -1,36 +1,42 @@
 {
   "plugins": [
     {
+      "id": 1,
       "package": "mrsleeps/vexim-web-plugin-pdns",
       "name": "PowerDNS Integration",
       "description": "Manage DNS records via PowerDNS API",
       "category": "dns"
     },
     {
+      "id": 2,
       "package": "mrsleeps/vexim-web-plugin-mailman3",
       "name": "Mailman 3 Mailing Lists",
       "description": "Subscriber management via Mailman 3 REST API",
       "category": "mailing-lists"
     },
     {
+      "id": 3,
       "package": "mrsleeps/vexim-web-plugin-dmarc",
       "name": "DMARC Integration",
       "description": "View DMARC reports",
       "category": "mail-security"
     },
     {
+      "id": 4,
       "package": "mrsleeps/vexim-web-plugin-rspamd",
       "name": "RSpamd Integration",
       "description": "RSpamd management",
       "category": "mail-security"
     },
     {
+      "id": 5,
       "package": "mrsleeps/vexim-web-plugin-mtasts",
       "name": "MTASTS Integration",
       "description": "MTASTS management",
       "category": "mail-security"
     },
     {
+      "id": 6,
       "package": "mrsleeps/vexim-web-plugin-dnstools",
       "name": "DNS Tools",
       "description": "Various tools to check DNS records",
