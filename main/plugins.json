@@ -48,7 +48,6 @@
       "name": "DNS Tools",
       "description": "Provides autodiscover/config for mail domains",
       "category": "web"
-    },
-
+    }
   ]
 }
