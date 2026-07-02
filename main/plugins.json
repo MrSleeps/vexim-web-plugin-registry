@@ -43,7 +43,7 @@
       "category": "dns, mail-security"
     },
     {
-      "id": 6,
+      "id": 7,
       "package": "mrsleeps/vexim-web-plugin-autodiscover",
       "name": "DNS Tools",
       "description": "Provides autodiscover/config for mail domains",
