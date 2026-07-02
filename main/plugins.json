@@ -41,6 +41,14 @@
       "name": "DNS Tools",
       "description": "Various tools to check DNS records",
       "category": "dns, mail-security"
-    }
+    },
+    {
+      "id": 6,
+      "package": "mrsleeps/vexim-web-plugin-autodiscover",
+      "name": "DNS Tools",
+      "description": "Provides autodiscover/config for mail domains",
+      "category": "web"
+    },
+
   ]
 }
