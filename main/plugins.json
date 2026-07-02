@@ -29,6 +29,12 @@
       "name": "MTASTS Integration",
       "description": "MTASTS management",
       "category": "mail-security"
+    },
+    {
+      "package": "mrsleeps/vexim-web-plugin-dnstools",
+      "name": "DNS Tools",
+      "description": "Various tools to check DNS records",
+      "category": "dns, mail-security"
     }
   ]
 }
