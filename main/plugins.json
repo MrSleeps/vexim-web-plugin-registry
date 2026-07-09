@@ -45,8 +45,15 @@
     {
       "id": 7,
       "package": "mrsleeps/vexim-web-plugin-autodiscover",
-      "name": "DNS Tools",
+      "name": "Autodisover functionality",
       "description": "Provides autodiscover/config for mail domains",
+      "category": "web"
+    },
+    {
+      "id": 8,
+      "package": "mrsleeps/vexim-web-plugin-pwa",
+      "name": "PWA",
+      "description": "Install VExim Web UI as a PWA on your mobile",
       "category": "web"
     }
   ]
